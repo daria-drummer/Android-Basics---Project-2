@@ -140,8 +140,8 @@
                     android:src="@drawable/pink_ball"
                     />
                 <ImageButton
-                    android:layout_width="60dp"
-                    android:layout_height="60dp"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
                     android:layout_weight="1"
                     android:background="@null"
                     android:onClick="addSevenForTeamA"
